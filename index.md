@@ -2,7 +2,8 @@
 title: max liudva's blog 
 ---
 
-### Hello there boyss!!!
+### hi there!
 
 
-this is my test blog!
+This is actually my new blog
+under development...
